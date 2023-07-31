@@ -7,10 +7,6 @@
 - ⚡ Fun fact: I am a pharmacy manager, but also a future software developer;
 - 📫 How to reach me: kovachev2012@gmail.com;
 
-<br/><br/>
-
-&nbsp;
-
 <a href="your-python-URL">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge"/>
 </a>
@@ -18,4 +14,5 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
 <a</a>
 
+<br/><br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrisKov76)](https://github.com/anuraghazra/github-readme-stats)
