@@ -1,5 +1,5 @@
 ### Hi, I'm Kristian Kovachev from Plovdiv, Bulgaria, a future Pythone Developer
-!(https://boyman.eu/images/Python_developer.jpg)
+(https://boyman.eu/images/Python_developer.jpg)
 
 About me:
 
