@@ -1,6 +1,6 @@
 ## Hi, I'm Kristian Kovachev from Plovdiv, Bulgaria, a future Pythone Developer
 
-<img width="30%" align="right" alt="Github" src="https://cdn-dbghh.nitrocdn.com/QebVtDaNFCEeCVKUoJXTUOHxlyingHVa/assets/images/optimized/rev-7e033fe/www.minddigital.com/wp-content/uploads/2020/05/Python-development.jpg" />
+<img width="35%" align="right" alt="Github" src="https://cdn-dbghh.nitrocdn.com/QebVtDaNFCEeCVKUoJXTUOHxlyingHVa/assets/images/optimized/rev-7e033fe/www.minddigital.com/wp-content/uploads/2020/05/Python-development.jpg" />
 
 **About me:**
 - 🔭 I’m currently working in Sopharmacy - one of the fastest-growing pharmacy store chains in Bulgaria
