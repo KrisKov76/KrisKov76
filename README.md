@@ -4,7 +4,7 @@
 
 **About me:**
 - 🔭 I’m currently working in SOpharmacy - part of the Sopharma family, one of the fastest-growing Pharmacy store chains in Bulgaria!
-- ⚡ Fun fact: I am a pharmacy manager 👨‍⚕️:, but also a future software developer 🐍
+- ⚡ Fun fact: I am a pharmacy manager 👨‍⚕️, but also a future software developer
 - 📫 How to reach me: kovachev2012@gmail.com
 <a href="your-python-URL">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge"/>
