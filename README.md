@@ -1,6 +1,6 @@
 ## Hi, I'm Kristian Kovachev from Plovdiv, Bulgaria
 
-<img width="35%" align="right"  transparent=True alt="Github" src="https://cdn-dbghh.nitrocdn.com/QebVtDaNFCEeCVKUoJXTUOHxlyingHVa/assets/images/optimized/rev-7e033fe/www.minddigital.com/wp-content/uploads/2020/05/Python-development.jpg" />
+<img width="40%" align="right" alt="Github" src="https://www.pngall.com/wp-content/uploads/5/Python-PNG-File.png" />
 
 **About me:**
 - 🔭 I’m currently working in SOpharmacy - part of the Sopharma family, one of the fastest-growing Pharmacy store chains in Bulgaria!
