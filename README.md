@@ -1,4 +1,4 @@
-### Hi, I'm Kristian Kovachev from Plovdiv, Bulgaria, a future Pythone Developer
+## Hi, I'm Kristian Kovachev from Plovdiv, Bulgaria, a future Pythone Developer
 
 About me:
 
@@ -6,6 +6,7 @@ About me:
 ⚡ Fun fact: I am a pharmacy manager, but also a future software developer.
 📫 How to reach me: kovachev2012@gmail.com
 
-<img width="55%" align="right" alt="Github" src="https://cdn-dbghh.nitrocdn.com/QebVtDaNFCEeCVKUoJXTUOHxlyingHVa/assets/images/optimized/rev-7e033fe/www.minddigital.com/wp-content/uploads/2020/05/Python-development.jpg" />
+<img width="30%" align="right" alt="Github" src="https://cdn-dbghh.nitrocdn.com/QebVtDaNFCEeCVKUoJXTUOHxlyingHVa/assets/images/optimized/rev-7e033fe/www.minddigital.com/wp-content/uploads/2020/05/Python-development.jpg" />
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrisKov76)](https://github.com/anuraghazra/github-readme-stats)
