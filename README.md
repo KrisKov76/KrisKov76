@@ -1,4 +1,4 @@
-Hi, I'm Kristian Kovachev from Plovdiv, Bulgaria, a future Pythone Diveloper
+Hi, I'm Kristian Kovachev from Plovdiv, Bulgaria, a future Pythone Developer
 
 About me:
 
