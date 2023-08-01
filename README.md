@@ -2,7 +2,7 @@
 
 <img width="40%" align="right" alt="Github" src="https://i.postimg.cc/bJqyPSQ1/my-python.png" />
 
-**About me:**
+**About me:** 
 - 🔭 I’m currently working in SOpharmacy - part of the Sopharma family!
 - ⚡ Fun fact: I am a Pharmacy Manager 👨‍⚕️, but also a future Software Developer
 - 📖 I'm a student in Bulgarian Software University - SoftUni 🧑‍🎓
