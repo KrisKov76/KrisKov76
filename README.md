@@ -5,7 +5,7 @@
 **About me:**
 - 🔭 I’m currently working in SOpharmacy - part of the Sopharma family, one of the fastest-growing Pharmacy store chains in Bulgaria!
 - ⚡ Fun fact: I am a Pharmacy Manager 👨‍⚕️, but also a future Software Developer
-- 📖 I'm a Student in Bulgarian Software University - SoftUni 🧑‍🎓
+- 📖 I'm a student in Bulgarian Software University - SoftUni 🧑‍🎓
 - 📫 How to reach me: kovachev2012@gmail.com 
 <a href="your-python-URL">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge"/>
