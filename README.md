@@ -1,4 +1,4 @@
-## Hi, I'm Kristian Kovachev from Plovdiv, Bulgaria 
+## Hi, I'm Kristian Kovachev from Plovdiv, Bulgaria <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px" height="24px">
 
 <img width="40%" align="right" alt="Github" src="https://i.postimg.cc/bJqyPSQ1/my-python.png" />
 
