@@ -3,10 +3,10 @@
 <img width="40%" align="right" alt="Github" src="https://i.postimg.cc/bJqyPSQ1/my-python.png" />
 
 **About me:** 
-- 🔭 I’m currently working in SOpharmacy - part of the Sopharma family!
-- ⚡ Fun fact: I am a Pharmacy Manager 👨‍⚕️, but also a future Software Developer
-- 📖 I'm a student in Bulgarian Software University 🧑‍🎓
-- 📫 How to reach me: kovachev2012@gmail.com
+- 🔭 I’m currently working in SOpharmacy - part of the Sopharma big family!
+- ⚡ Fun fact: I am a Pharmacy Manager 👨‍⚕️, but also a future software developer (i hope)
+- 📖 I'm a student in Bulgarian Software University (SoftUni) 🧑‍🎓
+- 📫 How to reach me: kovachev2012@gmail.com, tel. +359885447282
 
 <br/><br/>
   <a href="your-python-URL">
