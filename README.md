@@ -4,7 +4,7 @@
 
 **About me:** 
 - 🔭 I’m currently working in SOpharmacy - part of the Sopharma family!
-- ⚡ Fun fact: I am a Pharmacy Manager 👨‍⚕️, but also a future software developer (i hope)
+- ⚡ Fun fact: I am a Pharmacy Manager 👨‍⚕️
 - 📖 I'm a student in Bulgarian Software University (SoftUni) 🧑‍🎓
 - 📫 How to reach me: kovachev2012@gmail.com, tel. +359885447282
 
