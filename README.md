@@ -6,7 +6,7 @@
 - 🔭 I’m currently working in SOpharmacy - part of the Sopharma family!
 - ⚡ Fun fact: I am a Pharmacy Manager 👨‍⚕️
 - 📖 I'm a student in Bulgarian Software University (SoftUni) 🧑‍🎓
-- 📫 How to reach me: kovachev2012@gmail.com, tel. +359885447282
+- 📫 How to reach me: kovachev2012@gmail.com
 
 <br/><br/>
   <a href="your-python-URL">
