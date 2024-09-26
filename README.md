@@ -3,9 +3,9 @@
 <img width="40%" align="right" alt="Github" src="https://i.postimg.cc/bJqyPSQ1/my-python.png" />
 
 **About me:** 
-- 🔭 I’m currently working in SOpharmacy - part of the Sopharma family!
+- 🔭 I’m currently working at SOpharmacy, part of the Sopharma family!
 - ⚡ Fun fact: I am a Pharmacy Manager 👨‍⚕️
-- 📖 I'm a student in Bulgarian Software University (SoftUni) 🧑‍🎓
+- 📖 I'm a student at the Bulgarian Software University (SoftUni) 🧑‍🎓
 - 📫 How to reach me: kovachev2012@gmail.com
 
 <br/><br/>
